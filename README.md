@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**X-hung/X-hung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hunterxu-gh/hunterxu-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Web Full-stack Development, including React (Next.js) and Node (Nest.js/Express.js).
+- 🌱 I’m currently learning AI
+- ⚡ Interests: Computer Science / Chinese Philosophy / Psychology / Efficiency Management / Writing / Music / Basketball / Fitness and ..
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=X-hung&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
