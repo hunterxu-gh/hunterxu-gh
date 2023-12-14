@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Interests: Computer Science / Chinese Philosophy / Psychology / Efficiency Management / Writing / Music / Basketball / Fitness and ..
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=X-hung&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunterxu-gh&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=X-hung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hunterxu-gh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
