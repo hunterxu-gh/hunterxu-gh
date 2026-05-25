@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Web Full-stack Development, including React (Next.js) and Node (Nest.js/Express.js).
-- 🌱 I’m currently learning AI
-- ⚡ Interests: Computer Science / Chinese Philosophy / Psychology / Efficiency Management / Writing / Music / Basketball / Fitness and ..
+- 🌱 I’m currently working on AI/LLM system engineering, focusing on RAG, agent evaluation, agentic software engineering, and system-level AI governance.
+- 🔭 I’m building research-driven AI infrastructure for more reliable, controllable, and architecture-aware intelligent systems.
+- 👯 Prior to those, I worked on Web Full-stack Development, including React (Next.js) and Node (Nest.js/Express.js).
+- ⚡ Interests: Computer Science / Philosophy / Psychology / Efficiency Management / Writing / Music / Basketball / Fitness and ..
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunterxu-gh&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
